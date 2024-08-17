@@ -1,4 +1,6 @@
-Proyecto JWT
+
+
+  Proyecto JWT
 Descripción
 Este proyecto implementa un sistema de autenticación basado en JSON Web Tokens (JWT). JWT es un estándar abierto (RFC 7519) que define una manera compacta y segura de transmitir información entre dos partes como un objeto JSON. Esta aplicación proporciona una base para la autenticación en aplicaciones web, utilizando JWT para proteger las rutas y gestionar la sesión de los usuarios.
 
@@ -44,7 +46,7 @@ Inicia el servidor:
 bash
 Copiar código
 npm start
-El servidor debería estar funcionando en http://localhost:3000.
+El servidor debería estar funcionando en http://localhost:8080.
 
 Uso
 Registro de usuario
@@ -88,6 +90,10 @@ Copiar código
 ├── .env              # Variables de entorno
 ├── package.json      # Dependencias y scripts
 └── README.md         # Este archivo
+
+
+
+
 Contribuciones
 Si deseas contribuir a este proyecto, por favor sigue estos pasos:
 
